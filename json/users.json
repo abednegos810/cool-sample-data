@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"username": "bamboo-eater-913",
+		"password": "c25lYWtpbmdhcm91bmQ",
+		"name": "Panda wearing a rice hat",
+		"lastLogin": 1665644637072
+	},
+	{
+		"id": 2,
+		"username": "legendary-pangram",
+		"password": "anVtcGluZ2ZveA",
+		"name": "The quick brown fox jumps over the lazy dog",
+		"lastLogin": 1565643796825
+	},
+	{
+		"id": 3,
+		"username": "cat-anagram",
+		"password": "bGl0dGxla2l0dGVu",
+		"name": "Taco Cat",
+		"lastLogin": 1565642222225
+	},
+	{
+		"id": 4,
+		"username": "pizza-lover",
+		"password": "bm9waW5lYXBwbGU",
+		"name": "Classic Pepperoni",
+		"lastLogin": 1565632142225
+	},
+	{
+		"id": 5,
+		"username": "with-demi-glace",
+		"password": "cmVhbGx5Z29vZA",
+		"name": "T-Bone Steak",
+		"lastLogin": 1665645178985
+	}
+]
